@@ -3,7 +3,7 @@ import os
 import discord
 from discord.ext import commands, timers
 
-TOKEN = 'NjkxMDEwMTcxODI4NDM3MDI1.XpJhxA.HXeYeCuBS2bqua9LjXVXJ86Smeg'
+TOKEN = 'made you look'
 
 bot = commands.Bot(command_prefix = "s$")
 bot.remove_command('help')
